@@ -1,4 +1,9 @@
 # FH6-Cruise
+
+<p align="center">
+<img width="256" height="256" alt="Cruise" src="https://github.com/user-attachments/assets/8d2eae14-30e4-4fce-82cb-6836bedb74c5" />
+</p>
+
 Semi-Advanced Cruise Control for Forza Horizon 6, has an ingame overlay, adjustable speed keybinds (with Controller support), idk its Cruise Control, pretty self explanatory
 
 How to use:
