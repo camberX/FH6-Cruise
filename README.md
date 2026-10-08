@@ -27,3 +27,7 @@ Overlay:
 
 <img width="175" height="74" alt="image" src="https://github.com/user-attachments/assets/fd2676eb-f603-4af3-a241-2d5ebc49788d" />
 
+Credits:
+Initial references are from the Luna AIO!
+https://goluna.app/
+https://github.com/Shinayakae/forzaluna
